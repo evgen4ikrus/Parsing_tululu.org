@@ -1,4 +1,3 @@
-from tabnanny import check
 import requests
 import os
 
